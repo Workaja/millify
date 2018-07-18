@@ -1,5 +1,7 @@
 # millify
-Convert long numbers into a human-readable format, e.g. `25000` to `'25K'`
+Convert long numbers into a human-readable format, e.g. `25000` to `'25Rb'`
+
+This script owned by **Izolate**, just forked to Indonesian common Postfixes.
 
 ### Installation
 ```bash
@@ -15,12 +17,12 @@ First parameter is the number, second parameter is the desired decimal places (d
 import millify from 'millify'
 
 millify(2500)
-// 2.5K
+// 2.5Rb
 
 millify(1250000, 3)
-// 1.25M
+// 1.25Jt
 
 millify(2000000000)
-// 2B
+// 2M
 ```
 
