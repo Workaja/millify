@@ -1,7 +1,7 @@
 const suffixes = new Map()
-suffixes.set(3, 'K')
-suffixes.set(6, 'M')
-suffixes.set(9, 'B')
+suffixes.set(3, 'Rb')
+suffixes.set(6, 'Jt')
+suffixes.set(9, 'M')
 suffixes.set(12, 'T')
 
 module.exports = (ugly, decimal) => {
