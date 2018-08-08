@@ -5,7 +5,7 @@ This script owned by **Izolate**, just forked to Indonesian common Postfixes.
 
 ### Installation
 ```bash
-npm i millify
+npm i millify-indo
 ```
 
 ### Usage
