@@ -1,6 +1,6 @@
 {
   "name": "millify",
-  "version": "2.0.1",
+  "version": "3.0.1",
   "description": "Human-readable large numbers for Node.js",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izolate/millify.git"
+    "url": "git+https://github.com/workaja/millify-indo.git"
   },
   "keywords": [
     "numbers",
@@ -19,12 +19,12 @@
     "billion",
     "trillion"
   ],
-  "author": "izolate <yoshtalwar@gmail.com> (http://izolate.net/)",
+  "author": "Workaja <devserang@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/izolate/millify/issues"
+    "url": "https://github.com/workaja/millify-indo/issues"
   },
-  "homepage": "https://github.com/izolate/millify#readme",
+  "homepage": "https://github.com/workaja/millif-indoy#readme",
   "devDependencies": {
     "mocha": "^2.3.3"
   },
